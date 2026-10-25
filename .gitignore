@@ -1,0 +1,12 @@
+# Build outputs
+/build/
+/out/
+/.vs/
+CMakeUserPresets.json
+
+# Screenshots from the optional verification harness
+*.ppm
+
+# Python cache (only used by the optional asset bake script)
+__pycache__/
+*.pyc
